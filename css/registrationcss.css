@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+
+input[type=text]
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+input[type=date]
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box
+}
+input[type=radio]
+{
+	
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box
+}
+
+
+input[type=password]
+{
+	width: 80%;
+    padding: 5px 40px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#EDD5D6;
+}
+
+
+.header
+{
+	width:auto;
+	height:280px;
+	
+	background-image:url(../images/header.jpg);
+	 
+	
+}
+
+
+	.wrapper {
+	width:100%;
+	height:auto;
+	margin: 0 auto;
+	background-color:#F9C408;
+}
+
+.logo
+{   
+	float:left;
+	margin-top:20px;
+	margin-left:20px;
+
+}
+.container {
+    width: 100%;
+    height:auto;
+	float: left;
+	
+	background-color:#D2F509;
+}
+
+
+
+.form {
+	float:left;
+     width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+.form1{
+	width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	margin-left:450px;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+.form2{
+	float:right;
+	width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	margin-left:500px;
+	margin-top:-190px;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+.form3{
+	float:left;
+     width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	margin-top:4px;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+.form4{
+	width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	margin-left:450px;
+	margin-top:4px;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+.form5{
+	float:right;
+	width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	margin-left:500px;
+	margin-top:-190px;;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#E31114;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+table select
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+table textarea
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}

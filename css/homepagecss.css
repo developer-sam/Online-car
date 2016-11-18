@@ -1,0 +1,241 @@
+@charset "utf-8";
+/* CSS Document */
+
+input[type=text]
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:rgba(0,0,0,0.2);
+}
+input[type=date]
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:rgba(0,0,0,0.2);
+}
+table select
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px; 
+    box-sizing: border-box;
+	background-color:rgba(0,0,0,0.2);
+}
+input[type=radio]
+{
+	
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:rgba(0,0,0,0.2);
+}
+
+
+input[type=password]
+{
+	width: auto;
+    padding: 5px 40px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:rgba(0,0,0,0.2);
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#EDD5D6;
+}
+
+.header
+{
+	width:auto;
+	height:280px;
+	
+	background-image:url(../images/header.jpg);
+	 
+	
+}
+
+
+	.wrapper {
+	width:100%;
+	height:auto;
+	margin: 0 auto;
+		
+	
+}
+
+.logo
+{   
+	float:left;
+	
+	margin-top:20px;
+	margin-left:20px;
+
+}
+.container {
+    width: 911px;
+    height:850px;
+	background-image:url(../images/alizarin_red-wide.jpg);
+	float: left;
+	background-color:#D2F509;
+
+	
+}
+.sidebar {
+	width:438px;
+	background-image:url(../images/sidebar.jpg);
+	height:850px;
+	float:right;	
+background-color:#D2F509;
+
+	
+}
+.data {
+	width:auto;
+	height:900px;
+	color:#0D0C0C;
+	text-align:justify;
+	font-size:23px;
+
+    border-bottom: #E44FBB solid 2px;
+    float: left;
+}
+.form {
+     width: 400px;
+	padding:20px;
+	justify-content:center;
+    height: 151px;
+	text-shadow:#FBFBFB;
+	border-color:#000000;
+}
+.footer {
+	
+	float:left;
+	width:100%;
+	text-align:center;
+	height:190px;
+	font-size:15px;
+}
+h3
+{
+	color:#FFFBFB;
+}
+
+	
+.headlog
+{
+	float:right;
+	width:750px;
+	margin-top:20px;
+	margin-right:6px;
+}
+input[type=submit] {
+	float:right;
+    padding:5px 15px; 
+    background:#F9C408;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+.slider
+{
+	margin-top:20px;
+}
+div#hmenu { 
+   margin: 0; 
+   padding: .3em 0 .3em 0; 
+ 
+   width: 100%; 
+   text-align: center; 
+   float:left;
+   margin-top:153px;
+} 
+
+div#hmenu ul { 
+   list-style: none; 
+   margin: 0; 
+   padding: 0; 
+} 
+
+div#hmenu ul li { 
+   margin: 0; 
+   padding: 0; 
+   display: inline; 
+} 
+
+div#hmenu ul a:link{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #F9C408; 
+} 
+
+div#hmenu ul a:visited{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #F9C408; 
+} 
+
+div#hmenu ul a:active{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #ff0000; 
+} 
+
+div#hmenu ul a:hover{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #F9C408; 
+   background-color: #227755; 
+}
+
+.success{
+	margin-top:30px;
+	width:auto;
+	height:20px;
+	background-color:transparent;
+}
+.content
+{
+	margin-top:-112px;
+	font-size:larger
+}
+.successname
+{	margin-top:10px;
+	width:911px;;
+	height:470px;
+	background-image:url(../images/alizarin_red-wide.jpg);
+	float:left;
+}
+#tt
+{
+		width: auto;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:rgba(0,0,0,0.2);
+	
+}
+.qoute
+{
+	margin-top:-100px;
+	margin-left:275px;
+}

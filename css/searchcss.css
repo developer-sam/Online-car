@@ -1,0 +1,175 @@
+@charset "utf-8";
+
+@charset "utf-8";
+/* CSS Document */
+
+input[type=text]
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+input[type=date]
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box
+}
+input[type=radio]
+{
+	
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box
+}
+
+
+input[type=password]
+{
+	width: 80%;
+    padding: 5px 40px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#936869;
+}
+
+
+.header
+{
+	width:auto;
+	height:280px;
+	
+	background-image:url(../images/header.jpg);
+	 
+	
+}
+
+
+	.wrapper {
+	width:100%;
+	height:auto;
+	margin: 0 auto;
+	background-color:#F9C408;
+}
+
+.logo
+{   
+	float:left;
+	margin-top:20px;
+	margin-left:20px;
+
+}
+.container {
+    width: 100%;
+    height:auto;
+	float: left;
+	
+	background-color:#D2F509;
+}
+
+
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#E31114;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+table select
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+table textarea
+{
+	width: 80%;
+    padding: 5px 5px;
+    margin: 10px 20px;
+    box-sizing: border-box;
+	background-color:transparent;
+}/* CSS Document */
+div#hmenu { 
+   margin: 0; 
+   padding: .3em 0 .3em 0; 
+ 
+   width: 100%; 
+   text-align: center; 
+   float:left;
+   margin-top:0px;
+} 
+
+div#hmenu ul { 
+   list-style: none; 
+   margin: 0; 
+   padding: 0; 
+} 
+
+div#hmenu ul li { 
+   margin: 0; 
+   padding: 0; 
+   display: inline; 
+} 
+
+div#hmenu ul a:link{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #F9C408; 
+} 
+
+div#hmenu ul a:visited{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #F9C408; 
+} 
+
+div#hmenu ul a:active{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #ff0000; 
+} 
+
+div#hmenu ul a:hover{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #F9C408; 
+   background-color: #227755; 
+}
+.list{
+	float:left;
+	height:500px;
+	width:auto;
+}
+
+	/* CSS Document */
+
+/* CSS Document */
+
+/* CSS Document */
+
